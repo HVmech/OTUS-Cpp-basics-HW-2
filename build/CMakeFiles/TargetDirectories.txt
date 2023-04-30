@@ -1,0 +1,3 @@
+F:/Обучение/Код/OTUS-Cpp-basics-HW#2/build/CMakeFiles/hello_world.dir
+F:/Обучение/Код/OTUS-Cpp-basics-HW#2/build/CMakeFiles/ALL_BUILD.dir
+F:/Обучение/Код/OTUS-Cpp-basics-HW#2/build/CMakeFiles/ZERO_CHECK.dir
